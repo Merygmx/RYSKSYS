@@ -12,5 +12,7 @@ public class Prog1Holamundo {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        //comentario agregado
+        System.out.println("HOLA A TODOS");
     }
 }
